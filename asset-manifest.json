@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/newsreaderapp/static/css/main.92f29ed8.chunk.css",
+    "main.js": "/newsreaderapp/static/js/main.5b0bd9fe.chunk.js",
+    "main.js.map": "/newsreaderapp/static/js/main.5b0bd9fe.chunk.js.map",
+    "runtime-main.js": "/newsreaderapp/static/js/runtime-main.000568e6.js",
+    "runtime-main.js.map": "/newsreaderapp/static/js/runtime-main.000568e6.js.map",
+    "static/css/2.7222affd.chunk.css": "/newsreaderapp/static/css/2.7222affd.chunk.css",
+    "static/js/2.a0e3774d.chunk.js": "/newsreaderapp/static/js/2.a0e3774d.chunk.js",
+    "static/js/2.a0e3774d.chunk.js.map": "/newsreaderapp/static/js/2.a0e3774d.chunk.js.map",
+    "static/js/3.7869117a.chunk.js": "/newsreaderapp/static/js/3.7869117a.chunk.js",
+    "static/js/3.7869117a.chunk.js.map": "/newsreaderapp/static/js/3.7869117a.chunk.js.map",
+    "index.html": "/newsreaderapp/index.html",
+    "static/css/2.7222affd.chunk.css.map": "/newsreaderapp/static/css/2.7222affd.chunk.css.map",
+    "static/css/main.92f29ed8.chunk.css.map": "/newsreaderapp/static/css/main.92f29ed8.chunk.css.map",
+    "static/js/2.a0e3774d.chunk.js.LICENSE.txt": "/newsreaderapp/static/js/2.a0e3774d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/newsreaderapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000568e6.js",
+    "static/css/2.7222affd.chunk.css",
+    "static/js/2.a0e3774d.chunk.js",
+    "static/css/main.92f29ed8.chunk.css",
+    "static/js/main.5b0bd9fe.chunk.js"
+  ]
+}
