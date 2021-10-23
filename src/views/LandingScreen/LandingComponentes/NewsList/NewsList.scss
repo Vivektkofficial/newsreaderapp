@@ -1,0 +1,96 @@
+.main-container-list{
+    flex: 1;
+    flex-direction: column;
+    // background-color: aqua;
+    
+    .date-picker-container{
+        min-height: 30px;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        display: flex;
+        .date-picker-sub{
+           flex:0.5;
+           height: 60%;
+            width: 90%;
+            align-self: center;
+            border-style:solid;
+            border-width: thin;
+            border-color: rgb(236, 234, 234);
+            flex-direction: row;
+            display: flex;
+            .date-container{
+                flex:8;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                .date-input{
+                    color: rgb(179, 179, 179);
+                    height: 70%;
+                    width: 90%;
+                    flex: 0.5;
+                    align-self: center;
+                    font-size: small;
+                    outline: 0;
+                    border: 0;
+                    
+                }
+            }
+            .date-icon-container{
+                flex-direction: column;
+                flex: 1;
+                justify-content: center;
+                display: flex;
+                .search-icon{
+                    align-self: center;
+                    color: rgb(206, 203, 203);
+                }
+
+            }
+        }
+    }
+    .list-container{
+        flex:15;
+        flex-direction: column;
+        display: flex;
+
+        .news-item-container{
+            flex-direction: column;
+            display: flex;
+            max-width: 90%;
+            min-height: 100px;
+            padding-bottom: 20px;
+            align-self: center;
+            .item-Date{
+                flex: 1;
+                max-width: 90%;
+                min-height: 20px;
+                .item-date-lbl{
+                    // margin-left: 15px;
+                    font-size: smaller;
+                    font-weight: bold;
+                    color: gray;
+                }
+            }
+            .item-title-container{
+                flex: 2;
+                min-height: 30;
+                .news-title-txt{
+                    font-size: small;
+                }
+            }
+            .item-place-container{
+                flex:1;
+                border-bottom-style:solid;
+                border-bottom-width: thin;
+                border-bottom-color: rgb(230, 230, 230);
+                padding-bottom: 10px;
+                .item-place-txt{
+                    font-size: small;
+                    color: gray;
+                    font-weight: 500;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.news-main-container{
+    margin-top: 10px;
+    min-height: 1000px;
+    flex-direction: row;
+    display: flex;
+
+    .news-list-container{
+        flex:1;
+        display: flex;
+        border-right-style:solid;
+        border-right-width: thin;
+        border-right-color: rgb(211, 211, 211);
+    }
+    .news-details-container{
+        flex:2;
+    }
+}
